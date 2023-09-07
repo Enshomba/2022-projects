@@ -13,3 +13,8 @@ and starting it will python practice projects in my free time after all my basic
                     
                     
                     THATS AGENDA 2022
+all these goals after jumping into the wrong tank i could not be behind  the screen but here i am to start a fresh from zzero to hero
+from all the way bottom up approach
+
+let me start by creating my templates i can leverage on all the time
+in html5 css/bootstrap/javascript   latter python/Django
